@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class HakerEarth{
+class ToMinimum{
 //find how to minimize
  public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
