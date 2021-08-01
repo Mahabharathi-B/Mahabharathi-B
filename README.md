@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mahabharathi-B
-- 👀 I’m interested in web development ..
-- 🌱 I’m currently learning Java ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning Java 
 
 <!---
 Mahabharathi-B/Mahabharathi-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
